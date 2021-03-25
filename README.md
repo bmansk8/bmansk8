@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me Email: bmansk14@gmail.com or Phone: 678-704-7626
 - 😃 Want to see more of me? Go to my [portfolio](https://www.barronvbrock.net/) or my [blog site](https://barron-blog.vercel.app/)!
+- 💼 I am currently looking for work so feel free to hire me!
 
 <!---
 bmansk8/bmansk8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
