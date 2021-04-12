@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmansk8
-- 👀 I’m interested in music, guitar, running, and or course web development
+- 👀 I’m interested in music, guitar, running, web development
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me Email: bmansk14@gmail.com or Phone: 678-704-7626
 - 😃 Want to see more of me? Go to my [portfolio](https://www.barronvbrock.net/) or my [blog site](https://barron-blog.vercel.app/)!
